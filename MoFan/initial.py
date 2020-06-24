@@ -1,4 +1,5 @@
 
+# This file is set up to try some basic functions of Python
 
 # 1. class learning class还有很多功能可以用
 
@@ -13,8 +14,10 @@ class Calculator:
             print(result)
       def times(self,x,y):
             result = x*y
+            print(result)
       def divide(self,x,y):
             result = x/y
+            print(result)
 
 cal = Calculator()
 cal.name
@@ -82,7 +85,6 @@ print('run finish')
 
 print('----------------')
 
-# 7. 错误处理 try
 
 
 
