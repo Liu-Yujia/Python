@@ -9,3 +9,8 @@ import matplotlib.pyplot as plt
 
 # 超参数定义 Hyper parameters defination
 
+
+Episode = 50
+
+
+
